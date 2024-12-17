@@ -98,8 +98,5 @@ Training involves using labeled data to teach a machine-learning model to predic
 Testing evaluates a machine learning model's performance on unseen data. After training, the test dataset (a separate portion of the original data) assesses how well the model generalizes. Metrics such as accuracy, precision, recall, and F1-score are calculated to measure performance. Testing helps identify overfitting or underfitting, ensuring the model isn’t biased toward training data. It objectively evaluates the model's ability to make reliable predictions on real-world or new input data.
 
 
-## Project Timeline ⏳
-Description and Timeline of the project :
+## Implementation
 
-|Title| Timeline | Description |
-|-----|----------|-------------|
