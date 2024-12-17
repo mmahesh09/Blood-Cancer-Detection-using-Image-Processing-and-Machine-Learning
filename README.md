@@ -79,5 +79,27 @@ Here are two current detection techniques for blood cancer:
 
 As a highly prevalent cancer, the definitive diagnosis of acute lymphoblastic leukemia (ALL) requires invasive, expensive, and time-consuming diagnostic tests. ALL diagnosis using peripheral blood smear (PBS) images plays a vital role in the initial cancer screening from non-cancer cases. The examination of these PBS images by laboratory users is riddled with problems such as diagnostic error because the non-specific nature of ALL signs and symptoms often leads to misdiagnosis.
 
-The images of this dataset were prepared in the bone marrow laboratory of Taleqani Hospital (Tehran, Iran). This dataset consisted of 3256 PBS images from 89 suspected of ALL patients whose blood samples were prepared and stained by skillful laboratory staff. This dataset is divided into two classes benign and malignant. The former comprises hematogones; the latter is the ALL group with three subtypes of malignant lymphoblasts: Early Pre-B, Pre-B, and Pro-B ALL. All the images were taken using a Zeiss camera in a microscope with 100x magnification and saved as JPG files. A specialist using the flow cytometry tool made the definitive determination of the types and subtypes of these cells. After color thresholding-based segmentation in the HSV color space, we also provide segmented images.
+The images of this dataset were prepared in the bone marrow laboratory of Taleqani Hospital (Tehran, Iran). This dataset consisted of 3256 PBS images from 89 suspected patients whose blood samples were prepared and stained by skillful laboratory staff. This dataset is divided into two classes benign and malignant. The former comprises hematogenous; the latter is the ALL group with three subtypes of malignant lymphoblasts: Early Pre-B, Pre-B, and Pro-B ALL. All the images were taken using a Zeiss camera in a microscope with 100x magnification and saved as JPG files. A specialist using the flow cytometry tool made the definitive determination of the types and subtypes of these cells. We also provide segmented images after color thresholding-based segmentation in the HSV color space.
 
+
+## Data Augmentation
+
+Data augmentation is a technique used in machine learning and deep learning to artificially increase the size of a dataset by applying transformations or modifications to existing data. It is particularly common in computer vision, natural language processing (NLP), and speech recognition tasks.
+
+The main goal of data augmentation is to improve the generalization ability of a machine learning model by exposing it to variations of the data, thereby reducing overfitting and enhancing performance.
+
+## **Feature Extraction**  
+Feature extraction transforms raw data into a set of meaningful, informative attributes for machine learning models. It reduces data dimensionality while retaining essential information. Techniques like Principal Component Analysis (PCA), Fourier Transform, and word embeddings are often used, depending on data types (e.g., text, image, or numerical). Well-extracted features improve model accuracy and performance by enabling the algorithm to recognize patterns effectively, remove noise, and focus on the most relevant data attributes.
+
+## **Training the Data**  
+Training involves using labeled data to teach a machine-learning model to predict outputs. The model adjusts its parameters by minimizing the loss function, often using optimization techniques like gradient descent. Data is fed into the model in batches or iteratively, refining predictions through backpropagation. Training uses a larger portion of the dataset to learn patterns and relationships between input features and target outputs, ensuring the model generalizes well for unseen data.
+
+## **Testing the Data**  
+Testing evaluates a machine learning model's performance on unseen data. After training, the test dataset (a separate portion of the original data) assesses how well the model generalizes. Metrics such as accuracy, precision, recall, and F1-score are calculated to measure performance. Testing helps identify overfitting or underfitting, ensuring the model isn’t biased toward training data. It objectively evaluates the model's ability to make reliable predictions on real-world or new input data.
+
+
+## Project Timeline ⏳
+Description and Timeline of the project :
+
+|Title| Timeline | Description |
+|-----|----------|-------------|
