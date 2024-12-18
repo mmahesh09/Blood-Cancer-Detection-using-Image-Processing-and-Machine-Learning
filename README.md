@@ -124,7 +124,7 @@ Blood cancer detection using machine learning and image processing involves anal
   | Flask | Flask is a lightweight Python web framework used to build web applications. In my project, Flask can serve as the backend, handling image processing requests and integrating machine learning models for blood cancer detection. |
 
 
-## Result and Analysis
+## Result and Analysis📈
 
 The results in the model can be tabulated :
 
