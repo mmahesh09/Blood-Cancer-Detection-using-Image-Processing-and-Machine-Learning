@@ -144,7 +144,7 @@ The results in the model can be tabulated :
 ![image](https://github.com/mmahesh09/Blood-Cancer-Detection-using-Image-Processing-and-Machine-Learning/blob/727aecf83c743ff82a094ca004214feb19d2045b/Graphs/graph2.png)
 
 
-### Alogrithms used :
+### Alogrithms used :📊
 **Support Vector Machines (SVM)** are supervised machine learning algorithms used for classification and regression. They find the optimal hyperplane separating classes, maximizing margins, and can handle non-linear data using kernels.
 
 **Random Forest** is an ensemble machine learning algorithm combining multiple decision trees. It improves accuracy, reduces overfitting, and handles missing data by averaging predictions for regression or voting for classification.
