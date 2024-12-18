@@ -1,0 +1,13 @@
+This project focuses on the detection of blood cancer through advanced image
+processing and machine learning techniques. Blood cancer, which includes leukemia and
+lymphoma, significantly impacts patient health and requires timely diagnosis for effective
+treatment. By leveraging publicly available datasets of blood smear images, this study applies
+various image processing methods to enhance and segment blood cells. Machine learning
+algorithms, specifically Convolutional Neural Networks (CNNs), are utilized to classify images
+and detect abnormalities indicative of cancer. The project aims to improve diagnostic accuracy
+and reduce the time required for detection, thereby supporting healthcare professionals in making
+informed decisions. Additionally, this work highlights the integration of electronics and
+communication engineering principles with medical applications, showcasing how technological
+advancements can contribute to early cancer detection and improved patient outcomes. The
+findings of this project can pave the way for further research in automated diagnostics and real-
+time monitoring of blood-related diseases.
