@@ -44,6 +44,7 @@ There are three main types of blood cancer: **Leukemia**, **Lymphoma**, and **My
      - *Chronic lymphocytic leukemia (CLL)*: Affects lymphocytes, progresses slowly.
      - *Chronic myeloid leukemia (CML)*: Affects myeloid cells, progresses more slowly.
 
+
  ### Lymphoma:
  
    >"About 89,190 people in the US are expected to be diagnosed with lymphoma in 2024 (8,570 cases of HL and 80,620 cases of NHL)."
