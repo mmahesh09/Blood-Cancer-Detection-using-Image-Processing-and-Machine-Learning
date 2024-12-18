@@ -167,13 +167,13 @@ Machine learning and image processing have proven to be effective tools for earl
 ---
 
 ### **Future Work**  
-Future research on blood cancer detection can focus on improving the robustness and scalability of machine-learning models. Incorporating large, diverse datasets with varied demographic and genetic information can enhance model generalization. Advanced deep learning architectures, such as transformer models, can be explored to improve image analysis capabilities. Real-time blood cancer detection systems integrated with wearable devices or automated microscopes could revolutionize point-of-care diagnostics. Furthermore, explainable AI techniques can help clinicians interpret predictions, fostering trust in automated systems. Combining image processing with multi-omics data (e.g., genomics and proteomics) could offer even more precise, personalized blood cancer detection and treatment.
+Future research on blood cancer detection can focus on improving the robustness and scalability of machine-learning models. Incorporating_large, diverse datasets with varied demographic and genetic information can enhance model generalization. Advanced deep learning architectures, such as transformer models, can be explored to improve image analysis capabilities. Real-time blood cancer detection systems integrated with wearable devices or automated microscopes could revolutionize point-of-care diagnostics. Furthermore, explainable AI techniques can help clinicians interpret predictions, fostering trust in automated systems. Combining image processing with multi-omics data (e.g., genomics and proteomics) could offer even more precise, personalized blood cancer detection and treatment.
 
 ## Contributors
 
 | Name | Roll Number |
 |-------|------------|
-| Mahesh Babu | 21711A0434 |
+| M.Mahesh Babu | 21711A0434 |
 | SK.Yasin | 21711A0453|
 | T.V Adithya | 21711A0460 |
 | U.Venkat Ajay | 21711A0462 |
