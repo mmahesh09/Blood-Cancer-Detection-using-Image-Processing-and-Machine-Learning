@@ -160,3 +160,20 @@ The results in the model can be tabulated :
 ![image](https://github.com/mmahesh09/Blood-Cancer-Detection-using-Image-Processing-and-Machine-Learning/blob/727aecf83c743ff82a094ca004214feb19d2045b/Graphs/output.png)
 
 ## Conclusion and Future Work
+
+### **Conclusion**  
+Machine learning and image processing have proven to be effective tools for early and accurate detection of blood cancer. Techniques such as feature extraction, segmentation, and classification enable automated analysis of blood smear images, reducing manual effort and increasing diagnostic accuracy. Algorithms like CNNs, SVMs, and KNN have shown promising results in identifying abnormalities in white blood cells. While these methods improve diagnostic efficiency and consistency, challenges remain in handling data imbalance and ensuring model generalizability across diverse populations. Integrating expert knowledge with machine learning can create robust tools to assist clinicians in making faster and more precise diagnoses.
+
+---
+
+### **Future Work**  
+Future research on blood cancer detection can focus on improving the robustness and scalability of machine-learning models. Incorporating large, diverse datasets with varied demographic and genetic information can enhance model generalization. Advanced deep learning architectures, such as transformer models, can be explored to improve image analysis capabilities. Real-time blood cancer detection systems integrated with wearable devices or automated microscopes could revolutionize point-of-care diagnostics. Furthermore, explainable AI techniques can help clinicians interpret predictions, fostering trust in automated systems. Combining image processing with multi-omics data (e.g., genomics and proteomics) could offer even more precise, personalized blood cancer detection and treatment.
+
+## Contributors
+
+| Name | Roll Number |
+|-------|------------|
+| Mahesh Babu | 21711A0434 |
+| SK.Yasin | 21711A0453|
+| T.V Adithya | 21711A0460 |
+| U.Venkat Ajay | 21711A0462 |
