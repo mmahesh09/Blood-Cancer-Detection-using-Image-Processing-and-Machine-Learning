@@ -20,7 +20,7 @@
 ##  What is Blood Cancer?🩸
 Blood cancer, or hematologic cancer, is a group of cancers that affect the blood, bone marrow, or lymphatic system. It occurs when abnormal blood cells grow uncontrollably, disrupting the production and function of normal blood cells. The main types are leukemia (affecting white blood cells), lymphoma (affecting the lymphatic system), and myeloma (targeting plasma cells in bone marrow). These cancers impair the body’s ability to fight infections, carry oxygen, and stop bleeding. Symptoms may include fatigue, fever, infections, bruising, or swollen lymph nodes. Treatment often involves chemotherapy, radiation, targeted therapy, or stem cell transplants, depending on the type and severity.
 
-## Problem Statement🤷‍♂️
+## Problem Statement
 Blood cancer detection is a critical challenge in the medical field, as early diagnosis significantly improves treatment outcomes. Traditional diagnostic methods, such as blood tests and manual examination of blood samples, can be time-consuming and prone to human error. This project aims to develop an automated system for blood cancer detection using image processing and machine learning techniques. By analyzing microscopic images of blood samples, the system will identify and classify abnormal cell patterns indicative of blood cancers like leukemia, lymphoma, or myeloma. The goal is to provide a faster, more accurate, and reliable method for early blood cancer detection, assisting healthcare professionals in making timely and informed decisions.
 
 
