@@ -104,7 +104,7 @@ Testing evaluates a machine learning model's performance on unseen data. After t
 Blood cancer detection using machine learning and image processing involves analyzing microscopic blood smear images to identify abnormalities. Preprocessing techniques like noise reduction, image segmentation, and feature extraction (e.g., color, shape, and texture) are applied to isolate and highlight relevant cell characteristics. Machine learning models, such as convolutional neural networks (CNNs), are then trained on labeled datasets of healthy and cancerous cells. These models automatically learn patterns to classify and predict blood cancer subtypes (e.g., leukemia). Advanced techniques like transfer learning and ensemble methods improve accuracy. This approach enables early detection, aiding diagnosis and treatment planning with high precision and efficiency.
 
 
-## Technologies Used
+## Technologies Used ⚙️
 
 | Title | Description |
 |--------|-------------|
@@ -120,7 +120,11 @@ Blood cancer detection using machine learning and image processing involves anal
   | Scikit-Learn | Scikit-learn is a powerful Python machine-learning library offering classification, regression, and clustering tools. In my project, it enables efficient model training, evaluation, and hyperparameter tuning for blood cancer detection. |
   | Tensorflow | TensorFlow is an open-source machine learning framework ideal for image processing tasks. In my project, TensorFlow facilitates training a CNN to detect blood cancer by analyzing microscopic blood smear images.
   | Keras | Keras is a high-level neural network API that simplifies building and training deep learning models. In my project, Keras is used to implement and train machine learning models for blood cancer detection. |
-  | Pickel | Pickle is a Python module used for serializing and deserializing objects. In my project, it can store trained machine learning models or image data, enabling easy saving, loading, and sharing across sessions. |
+  | Pickle | Pickle is a Python module used for serializing and deserializing objects. In my project, it can store trained machine learning models or image data, enabling easy saving, loading, and sharing across sessions. |
   | Flask | Flask is a lightweight Python web framework used to build web applications. In my project, Flask can serve as the backend, handling image processing requests and integrating machine learning models for blood cancer detection. |
+
+
+## Result and Analysis
+
 
 
