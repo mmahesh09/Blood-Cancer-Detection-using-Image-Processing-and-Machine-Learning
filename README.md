@@ -4,7 +4,7 @@
 # Blood Cancer Detection using Image Processing and Machine Learning 🩸
 >"Blood cancer is the fifth most common cancer in the world, with an estimated 1.24 million new cases annually. In India, it's the third most common cancer, with about 80,000 new cases per year"
 
-## index
+## Index
 
 * What is Blood Cancer?
 * Problem Statement
