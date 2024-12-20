@@ -123,6 +123,8 @@ Blood cancer detection using machine learning and image processing involves anal
   | Pickle | Pickle is a Python module used for serializing and deserializing objects. In my project, it can store trained machine learning models or image data, enabling easy saving, loading, and sharing across sessions. |
   | Flask | Flask is a lightweight Python web framework used to build web applications. In my project, Flask can serve as the backend, handling image processing requests and integrating machine learning models for blood cancer detection. |
 
+![image](https://github.com/mmahesh09/Blood-Cancer-Detection-using-Image-Processing-and-Machine-Learning/blob/4c626d20014b976e484e35161e0508e52b3a7b28/Code%20Snippets/Modules.png)
+
 
 ## Result and Analysis📈
 
