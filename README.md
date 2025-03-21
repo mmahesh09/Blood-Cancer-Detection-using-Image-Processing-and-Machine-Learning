@@ -134,10 +134,10 @@ The results in the model can be tabulated :
 
 | Parameter | Score |
 |-----------|-------|
-| Accuracy | 85.4% |
-| Precision | 85.9% |
-| Recall | 85.42% |
-| F1-score | 85.31 % |
+| Accuracy | 84.3% |
+| Precision | 84.5% |
+| Recall | 84.32% |
+| F1-score | 84.24 % |
 
 ![image](https://github.com/mmahesh09/Blood-Cancer-Detection-using-Image-Processing-and-Machine-Learning/blob/727aecf83c743ff82a094ca004214feb19d2045b/Graphs/download%20(1).png)
 
@@ -155,11 +155,10 @@ The results in the model can be tabulated :
 
 **K-Nearest Neighbors (KNN)** is a simple, non-parametric machine learning algorithm that classifies data points based on the majority class of their closest neighbors in feature space.
 
-| Algorithm | Accuracy | Precision | Recall | F1-score |
-|-----------|-----------|----------|--------|-----------|
-| Random Forest | 85.38 | 85.49 | 84.35 | 84.92 |
-| Support Vector Machine |83.49 |82.01 | 82.1 | 82.62 |
-| K-nearest NeighBours | 81.28 | 80.89 | 81.55 | 80.62 |
+| Algorithm | Accuracy | 
+| Random Forest | 75.38 | 
+| Support Vector Machine |69.49 |
+| K-nearest NeighBours | 30.28 | 
 
 ![image](https://github.com/mmahesh09/Blood-Cancer-Detection-using-Image-Processing-and-Machine-Learning/blob/727aecf83c743ff82a094ca004214feb19d2045b/Graphs/output.png)
 
