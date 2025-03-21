@@ -156,6 +156,7 @@ The results in the model can be tabulated :
 **K-Nearest Neighbors (KNN)** is a simple, non-parametric machine learning algorithm that classifies data points based on the majority class of their closest neighbors in feature space.
 
 | Algorithm | Accuracy | 
+|-----------|-------|
 | Random Forest | 75.38 | 
 | Support Vector Machine |69.49 |
 | K-nearest NeighBours | 30.28 | 
