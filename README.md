@@ -54,7 +54,7 @@ There are three main types of blood cancer: **Leukemia**, **Lymphoma**, and **My
  
    >"About 89,190 people in the US are expected to be diagnosed with lymphoma in 2024 (8,570 cases of HL and 80,620 cases of NHL)."
    
-   - **Description**: Lymphoma is cancer of the lymphatic system, which includes lymph nodes, spleen, and bone marrow. It begins in the lymphocytes (a type of white blood cell) and can affect various parts of the body.
+   - **Description**: Lymphoma is cancer of lymphatic system, which includes lymph nodes, spleen, and bone marrow. It begins in the lymphocytes (a type of white blood cell) and can affect various parts of the body.
    - **Types**:
      - *Hodgkin lymphoma (HL)*: Characterized by the presence of Reed-Sternberg cells, usually starts in lymph nodes.
      - *Non-Hodgkin lymphoma (NHL)*: A diverse group of blood cancers affecting lymphocytes, can start in lymph nodes or other organs.
